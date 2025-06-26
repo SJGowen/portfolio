@@ -8,4 +8,14 @@ I have writen various corporate software for the likes of Bhs, Debenhams, Argos 
 
 I developed several games using C# and Blazor before undertaking a 14 week Unity game development course with Tech Educators.
 
+## Projects
 
+### Blazor based projects:
+- TicTacToe - https://sjgowen.github.io/TicTacToe
+- Connect456 - https://sjgowen.github.io/Connect456
+
+### Unity based projects
+https://softmine.itch.io/
+https://softmine.itch.io/see-what-speed-you-can-reach
+https://softmine.itch.io/dogs-chasing-balls
+https://softmine.itch.io/driving-game
