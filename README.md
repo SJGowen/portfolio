@@ -1,4 +1,4 @@
-# Stephen Gowen - Game Developer Portfolio
+# Game Developer Portfolio
 
 ## About
 
@@ -11,11 +11,11 @@ I developed several games using C# and Blazor before undertaking a 14 week Unity
 ## Projects
 
 ### Blazor based projects:
-- TicTacToe - https://sjgowen.github.io/TicTacToe
-- Connect456 - https://sjgowen.github.io/Connect456
+- TicTacToe - [https://sjgowen.github.io/TicTacToe](https://sjgowen.github.io/TicTacToe)
+- Connect456 - [https://sjgowen.github.io/Connect456](https://sjgowen.github.io/Connect456)
 
 ### Unity based projects
- - My itch repository - https://softmine.itch.io/
- - Speeding Up - Endless Runner - https://softmine.itch.io/see-what-speed-you-can-reach
- - Dogs Catching Balls - https://softmine.itch.io/dogs-chasing-balls
- - Driving Game - https://softmine.itch.io/driving-game
+ - My itch repository - [https://softmine.itch.io/](https://softmine.itch.io/)
+ - Speeding Up - Endless Runner - [https://softmine.itch.io/see-what-speed-you-can-reach](https://softmine.itch.io/see-what-speed-you-can-reach)
+ - Dogs Catching Balls - [https://softmine.itch.io/dogs-chasing-balls](https://softmine.itch.io/dogs-chasing-balls)
+ - Driving Game - [https://softmine.itch.io/driving-game](https://softmine.itch.io/driving-game)
