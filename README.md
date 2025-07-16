@@ -16,6 +16,7 @@ I then changed track and developed several games using C# and Blazor before unde
 
 ### Unity based projects
  - My itch repository - [https://softmine.itch.io/](https://softmine.itch.io/)
+ - Zombies in a Desert - [https://softmine.itch.io/zombies-in-a-desert/](https://softmine.itch.io/zombies-in-a-desert/).
  - Speeding Up - Endless Runner - [https://softmine.itch.io/see-what-speed-you-can-reach](https://softmine.itch.io/see-what-speed-you-can-reach)
  - Dogs Catching Balls - [https://softmine.itch.io/dogs-chasing-balls](https://softmine.itch.io/dogs-chasing-balls)
  - Driving Game - [https://softmine.itch.io/driving-game](https://softmine.itch.io/driving-game)
